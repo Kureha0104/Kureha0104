@@ -287,6 +287,7 @@ $ build --securely
 $ develop --ios
 $ investigate --curiously
 $ pursue-dreams --italy
+$ earn -- money
 ```
 
 ### BUILD. BREAK. UNDERSTAND. SECURE.
