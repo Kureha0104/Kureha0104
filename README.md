@@ -275,9 +275,6 @@ I want to combine software engineering, cybersecurity, iOS development, and inno
 <a href="https://www.instagram.com/kvzlk/">
 <img src="https://img.shields.io/badge/Instagram-@kvzlk-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
 </a>
-<a href="https://www.facebook.com/kvzlk">
-<img src="https://img.shields.io/badge/Facebook-@kvzlk-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
-</a>
 
 <br/><br/>
 
