@@ -18,9 +18,6 @@
 <a href="https://www.instagram.com/kvzlk/">
 <img src="https://img.shields.io/badge/Instagram-FOLLOW-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
-<a href="https://www.facebook.com/kvzlk">
-<img src="https://img.shields.io/badge/Facebook-CONNECT-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2" />
-</a>
 
 <br/><br/>
 
