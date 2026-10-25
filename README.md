@@ -22,7 +22,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20%2B%20iOS%20%2B%20SECURITY-0891b2?style=flat-square" />
-<img src="https://img.shields.io/badge/ACHIEVEMENTS-2×%20FIRST%20%2B%203RD%20PLACE-FFD700?style=flat-square" />
+<img src="https://img.shields.io/badge/ACHIEVEMENTS-2X%20FIRST%20%2B%203RD%20%2B%205TH%20PLACE-FFD700?style=flat-square" />
 <img src="https://img.shields.io/badge/GOAL-STUDY%20IN%20ITALY-009246?style=flat-square" />
 
 </div>
@@ -38,7 +38,7 @@ Alias      : Kureha
 From       : Mongolia
 Focus      : Full-Stack, iOS & Cybersecurity
 Specialty  : EDR & Security Research
-Achievement: 2× Hackathon 1st Place | Cybersecurity 3rd Place
+Achievement: 2 Hackathon 1st Place | Cybersecurity 3rd Place | Edu Flow 5th Place
 Goal       : Computer Engineering in Italy
 ```
 
@@ -158,7 +158,21 @@ Cybersecurity competition involving technical problem-solving and security chall
 
 </td>
 </tr>
-</table>
+<tr>
+  <td align="center" colspan="2">
+
+    <img src="https://img.shields.io/badge/5TH_PLACE-22D3EE?style=for-the-badge" />
+
+    ###  [Edu Flow](https://github.com/Kureha0104/Edu-flow)
+
+    **5th Place**
+
+    Three-sided learning platform connecting teachers, students, and parents.
+
+    </td>
+    </tr>
+    
+</tr></table>
 
 <br/>
 
