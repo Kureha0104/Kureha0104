@@ -159,20 +159,19 @@ Cybersecurity competition involving technical problem-solving and security chall
 </td>
 </tr>
 <tr>
-  <td align="center" colspan="2">
+<td align="center" colspan="2">
 
-    <img src="https://img.shields.io/badge/5TH_PLACE-22D3EE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/5TH_PLACE-22D3EE?style=for-the-badge" alt="5th Place" />
 
-    ###  [Edu Flow](https://github.com/Kureha0104/Edu-flow)
+### 🎓 [Edu Flow — Hacktoberfest 2026](https://github.com/Kureha0104/Edu-flow)
 
-    **5th Place**
+**5th Place**
 
-    Three-sided learning platform connecting teachers, students, and parents.
+Three-sided learning platform connecting teachers, students, and parents.
 
-    </td>
-    </tr>
-    
-</tr></table>
+</td>
+</tr>
+</table>
 
 <br/>
 
